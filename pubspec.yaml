@@ -5,7 +5,7 @@ author: flutter-studio<2534290808@qq.com>
 homepage: https://github.com/flutter-studio/flutter-icons.git
 
 environment:
-  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+  sdk: '>=2.12.0 <3.0.0'
 
 dependencies:
   flutter:
